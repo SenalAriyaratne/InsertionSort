@@ -15,7 +15,7 @@ This file initializes the Python module.
 
 ### `InsertionSort.py`
 
-This file contains the `InsertionSort` class with methods to sort an array using the Insertion Sort algorithm, print the array, and check if the array is sorted correctly.
+This file contains the `InsertionSort` class with methods to sort an array using the Insertion Sort algorithm and print the array.
 
 ### `main.py`
 
@@ -30,7 +30,7 @@ This file demonstrates the usage of the `InsertionSort` class. It includes:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/insertion-sort.git
+   git clone https://github.com/SenalAriyaratne/InsertionSort.git
    cd insertion-sort
    ```
 
