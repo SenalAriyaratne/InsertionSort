@@ -11,7 +11,7 @@ This repository contains a Python implementation of the Insertion Sort algorithm
 
 ### `__init__.py`
 
-This file initializes the Python modulee.
+This file initializes the Python .
 
 ### `InsertionSort.py`
 
